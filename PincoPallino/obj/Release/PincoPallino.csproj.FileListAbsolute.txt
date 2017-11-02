@@ -1,0 +1,10 @@
+D:\VSProj\PincoPallino\PincoPallino\bin\Release\PincoPallino.exe.config
+D:\VSProj\PincoPallino\PincoPallino\bin\Release\PincoPallino.exe
+D:\VSProj\PincoPallino\PincoPallino\bin\Release\PincoPallino.pdb
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.Properties.Resources.resources
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.csproj.GenerateResource.Cache
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.csproj.CoreCompileInputs.cache
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.exe
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.pdb
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.Main.resources
+D:\VSProj\PincoPallino\PincoPallino\obj\Release\PincoPallino.PincoPallino.resources

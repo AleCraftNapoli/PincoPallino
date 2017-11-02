@@ -1,0 +1,12 @@
+D:\VSProj\PincoPallino\PincoPallino\bin\Debug\PincoPallino.exe.config
+D:\VSProj\PincoPallino\PincoPallino\bin\Debug\PincoPallino.exe
+D:\VSProj\PincoPallino\PincoPallino\bin\Debug\PincoPallino.pdb
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.Properties.Resources.resources
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.csproj.GenerateResource.Cache
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.csproj.CoreCompileInputs.cache
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.exe
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.pdb
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.PincoPallino.resources
+D:\VSProj\PincoPallino\PincoPallino\obj\Debug\PincoPallino.Main.resources
+D:\VSProj\PincoPallino\PincoPallino\bin\Debug\PincoPallino.exe.CodeAnalysisLog.xml
+D:\VSProj\PincoPallino\PincoPallino\bin\Debug\PincoPallino.exe.lastcodeanalysissucceeded
